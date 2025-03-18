@@ -78,3 +78,5 @@ All of this wouldn't be possible if it weren't for:
 - [Manashiku](https://github.com/Manashiku)
 - [Chips](https://github.com/Elysia-simp)
 - [Razmoth](https://github.com/Razmoth)
+
+- [here lol](https://github.com/Hoyotoon/HoyoToon)
