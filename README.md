@@ -64,7 +64,7 @@ You can install HoyoToon through 3 methods.
 
 ## Rules
 
-- The [HoyoToon Shader License](https://github.com/HoyoToon/HoyoToon/blob/main/LICENSE) applies. 
+- The [HoyoToon Shader License](https://github.com/furry72/HoyoToon-Polited/blob/main/LICENSE) applies. 
 
 ## Contributing
 
